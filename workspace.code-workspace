@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\Digital Humanities\\Programming Languages"
+		},
+		{
+			"path": "..\\Digital Humanities\\Programming Languages\\visual_studio_code-workspace"
+		},
+		{
+			"path": "..\\C C++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
